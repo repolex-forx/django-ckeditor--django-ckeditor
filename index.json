@@ -1,0 +1,11 @@
+{
+  "org": "django-ckeditor",
+  "repo": "django-ckeditor",
+  "versions": [
+    {
+      "commit": "1a9c5a78ecbcc31d39271bd2bebf4a7912d3d5af",
+      "tag": "6.7.3",
+      "parsed_at": "2026-10-12T21:51:44.068663+00:00"
+    }
+  ]
+}
